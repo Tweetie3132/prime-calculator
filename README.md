@@ -64,7 +64,7 @@ python prime_calculator.py
 
 ### Execution Time
 
-- **C++ Version**: 1m44.887s
+- **C++ Version**: 1m34.083s
 - **Python Version**: 0m0.809s
 
 ### Analysis
